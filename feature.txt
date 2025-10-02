@@ -1,0 +1,5 @@
+Tính năng: Hệ thống ghi chú tự động (Auto-save)
+- Tự động lưu nội dung form mỗi 10 giây.
+- Lưu cục bộ khi mất kết nối, đồng bộ khi có mạng.
+- Giao diện đơn giản: nút bật/tắt auto-save.
+- Hỗ trợ phiên bản (undo/redo) cho nội dung đã lưu.
