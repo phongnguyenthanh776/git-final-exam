@@ -1,0 +1,14 @@
+Giới thiệu cá nhân:
+Tôi tên là Nguyễn Thanh Phong.
+Sinh viên ngành CNTT.
+Tôi thích học Git để quản lý dự án.
+Tôi mong muốn trở thành lập trình viên giỏi.
+Tôi sống tại Cần Thơ.
+
+Sở thích:
+- Chơi bóng đá
+- Lập trình
+
+Kỹ năng:
+- Git cơ bản
+- Lập trình C
