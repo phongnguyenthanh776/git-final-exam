@@ -12,3 +12,10 @@ Sở thích:
 Kỹ năng:
 - Git cơ bản
 - Lập trình C
+
+Kế hoạch học tập:
+Trong năm học này, tôi sẽ tập trung củng cố kiến thức về Git và quản lý dự án.  
+Tôi sẽ hoàn thành tất cả các môn học chuyên ngành đúng tiến độ.  
+Tôi sẽ rèn luyện kỹ năng viết code sạch và có cấu trúc.  
+Tôi sẽ học thêm về cơ sở dữ liệu và bảo mật ứng dụng.  
+Tôi đặt mục tiêu hoàn thành một dự án cá nhân trước khi tốt nghiệp.
