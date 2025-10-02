@@ -1,5 +1,5 @@
 Giới thiệu cá nhân:
-Tôi tên là Nguyễn Thanh Phong.
+Xin Chào, tôi tên là Nguyễn Thanh Phong.
 Sinh viên ngành CNTT.
 Tôi thích học Git để quản lý dự án.
 Tôi mong muốn trở thành lập trình viên giỏi.
