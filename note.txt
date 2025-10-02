@@ -1,3 +1,5 @@
 - Git giúp quản lý phiên bản hiệu quả.
 - Git hỗ trợ làm việc nhóm dễ dàng.
 - Tôi thấy Git hơi khó lúc đầu nhưng rất hữu ích.
+- Thường xuyên commit sẽ giúp theo dõi tiến trình.
+- Git còn nhiều lệnh nâng cao cần học thêm.
